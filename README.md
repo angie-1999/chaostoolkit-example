@@ -1,15 +1,13 @@
 # Chaos Toolkit Simple Example
-Simple Example for the usage of the ChaosToolkit.
+Simple Example for the usage of the ChaosToolkit. Adapted and simplified from the original tutorial on the ChaosToolkit Webpage: https://chaostoolkit.org/reference/tutorial/
 
-```
-```
 ---
 ### Setup
 ```
 cd <project-folder>
 ```
 
-You may want to run the experiment in a virtual environment (see https://docs.python.org/3/library/venv.html).
+You may want to run the experiment in a virtual environment: see https://docs.python.org/3/library/venv.html
 
 Install Requirements
 ```
@@ -27,6 +25,7 @@ Run the application
 ```
 python bookmark.py
 ```
+Now the application shoul be available at https://localhost:8444
 
 Run the experiment
 ```
