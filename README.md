@@ -2,6 +2,15 @@
 Simple Example for the usage of the ChaosToolkit. Adapted and simplified from the original tutorial on the ChaosToolkit Webpage: https://chaostoolkit.org/reference/tutorial/
 
 ---
+### Requirements
+The experiment will use the following binaries, make sure you have them in your PATH:
+
+[openssl](https://github.com/openssl/openssl)
+
+[pkill](https://github.com/fosskers/pkill)
+
+
+---
 ### Setup
 ```
 cd <project-folder>
